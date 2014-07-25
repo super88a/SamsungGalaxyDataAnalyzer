@@ -66,6 +66,7 @@ f. Finally, save the result data set to file "analysis_result.txt".
 ### Running the Script
 
 To run the script:
+
 a. Open R command line interface or R Studio, and set the working directory
    to where you put the experiment/smartphone dataset.
 
